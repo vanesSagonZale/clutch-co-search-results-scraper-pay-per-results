@@ -1,0 +1,30 @@
+[
+  {
+    "name": "TECLA",
+    "clutchUrl": "/profile/tecla",
+    "website": "https://tecla.io",
+    "rating": "4.9",
+    "reviewCount": "12 reviews",
+    "hourlyRate": "$25 - $49 / hr",
+    "minProjectSize": "$25,000+",
+    "employeeCount": "50 - 249",
+    "location": "Seattle, WA",
+    "description": "TECLA provides IT Talent Acquisition...",
+    "logoUrl": "https://img.shgstatic.com/clutch-static-prod/image/scale/50x50/s3fs-public/logos/fae283b169cd646f62fe7ad295d4852d.png",
+    "isVerified": true
+  },
+  {
+    "name": "Pwrteams",
+    "clutchUrl": "/profile/pwrteams",
+    "website": "https://pwrteams.com",
+    "rating": "4.8",
+    "reviewCount": "27 reviews",
+    "hourlyRate": "$50 - $99 / hr",
+    "minProjectSize": "$25,000+",
+    "employeeCount": "250 - 999",
+    "location": "Kraków, Poland",
+    "description": "Pwrteams offers IT Augmentation Services...",
+    "logoUrl": "https://img.shgstatic.com/clutch-static-prod/image/scale/50x50/s3fs-public/logos/ae56fb453cd20fe85e8283680b165603_1792336922664479e20d014.png",
+    "isVerified": true
+  }
+]
